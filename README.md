@@ -1,8 +1,8 @@
-# mpv-shortcut_keys-like-mpc
+# MPV shortcut keys like MPC
 Input.conf and MPV.conf that remain the shortcut keys from MPC.
 
 
-**The config files can be placed in:**
+**The config files should be placed in:**
 
 # For Linux
 
